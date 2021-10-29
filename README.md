@@ -1,6 +1,6 @@
 # NFT Marketplace on Ethererum
 
-## Set Steps
+## Setup Steps
 
 First, clone the repo and install the dependencies:
 
