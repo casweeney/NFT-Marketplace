@@ -1,15 +1,13 @@
 # Digital marketplace on Ethererum
 
-This is the completed version of the NFT marketplace app from the attached [workshop](https://github.com/dabit3/full-stack-ethereum-marketplace-workshop).
-
 ## Getting Started
 
 First, clone the repo and install the dependencies:
 
 ```sh
-git clone https://github.com/dabit3/full-stack-ethereum-marketplace-workshop.git
+git clone git remote add origin https://github.com/casweeney/NFT-Marketplace.git
 
-cd full-stack-ethereum-marketplace-workshop/marketplace-example
+cd NFT-marketplace
 
 yarn
 
